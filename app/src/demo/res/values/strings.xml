@@ -1,0 +1,4 @@
+<resources>
+    <string name="demo">This is the demo version!</string>
+    <string name="app_name">demo version</string>
+</resources>
