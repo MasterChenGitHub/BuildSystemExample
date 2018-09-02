@@ -21,18 +21,18 @@ android {
         }
     }
 
-    productFlavors {
-        demo {
-            applicationId "com.master.buildsystemexample.demo"
-            versionName "1.0-demo"
-            dimension "mode"
-        }
-        full {
-            applicationId "com.master.buildsystemexample.full"
-            versionName "1.0-full"
-            dimension "mode"
-        }
-    }
+//    productFlavors {
+//        demo {
+//            applicationId "com.master.buildsystemexample.demo"
+//            versionName "1.0-demo"
+//            dimension "mode"
+//        }
+//        full {
+//            applicationId "com.master.buildsystemexample.full"
+//            versionName "1.0-full"
+//            dimension "mode"
+//        }
+//    }
 }
 
 dependencies {
